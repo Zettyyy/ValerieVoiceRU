@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Zettyyy)
 ## 📜 Описание
 ValerieVoiceRU — голосовая модель женской версии Ви (Валери) из Cyberpunk 2077 для использования с so-vits-svc-подобными нейросетями.
+
 [[Послушать пример фразы]](https://github.com/Zettyyy/ValerieVoiceRU/raw/main/example.mp3)
 ## 📩 Скачивание модели
 [1️⃣] [Google Drive](https://drive.google.com/uc?export=view&id=1jmCHryz_Q_WSayz8NI2fCRDROylvQ0qX)
