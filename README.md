@@ -1,5 +1,5 @@
 # ValerieVoiceRU
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Zettyyy)
 ## 📜 Описание
 ValerieVoiceRU — голосовая модель женской версии Ви (Валери) из Cyberpunk 2077 для использования с so-vits-svc-подобными нейросетями.
 [[Послушать пример фразы]](https://github.com/Zettyyy/ValerieVoiceRU/raw/main/example.mp3)
